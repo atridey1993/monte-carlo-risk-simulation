@@ -38,4 +38,15 @@ Risk analysis often requires understanding tail behavior under uncertain market 
 - Historical simulation
 - Option portfolio extension
 - Factor-based scenarios
+
+- ## Example Output
+
+### Return Distribution
+![Return Distribution](results/return_distribution.png)
+
+### Loss Distribution with VaR
+![Loss Distribution](results/loss_distribution.png)
+
+### Stress Scenario Comparison
+![Stress Scenario Comparison](results/stress_var_comparison.png)
 - Volatility clustering models
